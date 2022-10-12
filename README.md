@@ -30,4 +30,5 @@ Salida:
   Diagrama de la clase
   ![](https://github.com/ThisIsMaik/T3A1---Ejercicio_01/blob/main/T3A1.png?raw=true)
   
-#Etapa 04.  de la solucion
+#Etapa 04. Desarrollo de la solucion
+
