@@ -27,3 +27,5 @@ Salida:
    - Promedio:                               80
    
 #Etapa 03. Diseño de la solucion
+  Diagrama de la clase
+  ![](
